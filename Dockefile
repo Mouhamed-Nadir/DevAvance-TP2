@@ -1,0 +1,2 @@
+ FROM node :lts-bulleyes-slim
+ RUN /home/node/app/node_module
